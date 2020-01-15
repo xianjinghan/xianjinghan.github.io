@@ -1,3 +1,11 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Welcome to Xianjing Han's Homepage</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link rel="stylesheet" type="text/css" href="show.css" media="screen" />
+</head>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/xianjinghan/xianjinghan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
